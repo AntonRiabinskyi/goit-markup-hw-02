@@ -1,0 +1,35 @@
+body {
+  background-color: #ffffff;
+  color: #757575;
+}
+/* logo*/
+.logo {
+  font-family: "ralewey", sans-serifd;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
+  color: #2196f3;
+}
+.accent-logo {
+  color: #000000;
+}
+
+/* site-nav*/
+.site-nav .link {
+  color: #212121;
+}
+.site-nav .link:hover,
+.site-nav .link:focus {
+  color: #2196f3;
+}
+ul {
+  list-style: none;
+}
+/* лого #000000 */
+/* основной цвет текста #212121 */
+/* вторичный цвет текста #757575 */
+/* белый #FFFFFF */
+/* акцент #2196F3 */
+/* цвет фона #ECECEC */
